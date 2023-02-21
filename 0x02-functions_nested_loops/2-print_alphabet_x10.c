@@ -4,17 +4,18 @@
  *
  * Return: Always 0 (Succes)
  */
-void print_alphabet(void)
+void print_alphabet_x10(void)
 {
 	int n = 'a';
+	int i = 0;
 
 	do{
-    for (n = 'a'; n <= 'z'; n++)
-	  {
-		  putchar(n);
-	  }
-    int i = 0;
-    i++;
-  }while(i <10)
+    		for (n = 'a'; n <= 'z'; n++)
+	  	{
+			
+		  	putchar(n);
+	  	}
+		i++;
+  	}while(i < 10)
 	putchar('\n');
 }
