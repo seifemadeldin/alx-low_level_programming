@@ -6,7 +6,7 @@
  * Return: Always 0 (Success)
  */
 int main (void){
-	string s = "_putchar";
+	char s = "_putchar";
 	putchar(s);
 	return 0;
 }
