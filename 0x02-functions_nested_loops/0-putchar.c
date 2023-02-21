@@ -7,6 +7,13 @@
  */
 void print_alphabet(void)
 {
-	_putchar("_putchar\n");
+	char *sh = "_putchar";
+
+	while (*sh)
+	{
+		_putchar(*sh);
+		sh++;
+	}
+	_putchar('\n');
         return (0);
 }
