@@ -6,7 +6,7 @@
  */
 void print_alphabet_x10(void)
 {
-	int n = 'a';
+	int n;
 	int i = 0;
 	
 	do {
