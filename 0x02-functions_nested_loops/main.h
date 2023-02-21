@@ -1,5 +1,5 @@
-#ifndef HOLBERTON_H
-#define HOLBERTON_H
+#ifndef main
+#define main
 
 char _putchar(char c);
 void print_alphabet(void);
