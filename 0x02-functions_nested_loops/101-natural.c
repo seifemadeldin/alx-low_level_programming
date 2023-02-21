@@ -4,7 +4,6 @@
   * 3 or 5 below 1024.
   * Return: Nothing.
   */
-
 int main(void)
 {
 	int i, res;
