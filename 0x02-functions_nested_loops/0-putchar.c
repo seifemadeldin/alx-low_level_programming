@@ -5,7 +5,7 @@
  *
  * Return: Always 0 (Succes)
  */
-void print_alphabet(void)
+void main(void)
 {
 	char *sh = "_putchar";
 
