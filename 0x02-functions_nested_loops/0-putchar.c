@@ -5,7 +5,7 @@
  *
  * Return: Always 0 (Succes)
  */
-void main(void)
+int main(void)
 {
 	char sh = "_putchar";
 	
