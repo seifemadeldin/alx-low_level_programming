@@ -9,7 +9,7 @@ int main(void)
 	int n;
 	for(n= 'a'; n <= 'z'; n++)
 	{
-		printf(n);
+		_putchar(n);
 	}
 	return (0);
 }
