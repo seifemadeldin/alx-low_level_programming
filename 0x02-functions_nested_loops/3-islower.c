@@ -6,7 +6,7 @@
  *
  * Return: Always 0 (Succes)
  */
-void int _islower(int c)
+int _islower(int c)
 {
   if(islower(c) == True)
   {
