@@ -6,7 +6,8 @@
  */
 int main(void)
 {
-	for(char n= 'a'; n <= 'z'; n++)
+	int n;
+	for(n= 'a'; n <= 'z'; n++)
 	{
 		printf(n);
 	}
