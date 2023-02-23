@@ -6,7 +6,7 @@
 
 void print_number(int n)
 {
-	double len, res, i, temp, expo;
+	long long len, res, i, temp, expo;
 
 	res = n;
 	expo = len =  1;
